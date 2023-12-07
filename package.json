@@ -1,13 +1,10 @@
 {
-  "name": "linter-dpnet",
+  "name": "@dpnet/eslint-config",
   "version": "1.0.0",
   "description": "",
   "main": "next.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
-  "author": "Frugoli",
+  "author": "",
   "license": "ISC",
   "peerDependencies": {
     "eslint": "^8.0.0",
