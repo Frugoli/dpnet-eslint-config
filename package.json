@@ -1,5 +1,5 @@
 {
-  "name": "@dpnet/eslint-config",
+  "name": "dpnet-eslint-config",
   "version": "1.0.0",
   "description": "",
   "main": "next.js",
