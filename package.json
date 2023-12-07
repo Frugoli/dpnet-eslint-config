@@ -1,6 +1,6 @@
 {
   "name": "dpnet-eslint-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "keywords": [],
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Frugoli/eslint-config.git"
+    "url": "https://github.com/Frugoli/dpnet-eslint-config.git"
   },
   "peerDependenciesMeta": {
     "typescript": {
