@@ -22,6 +22,7 @@ module.exports = {
         semi: false,
       },
     ],
+    '@typescript-eslint/no-meaningless-void-operator': 'error',
   },
   settings: {
     'import/parsers': {
